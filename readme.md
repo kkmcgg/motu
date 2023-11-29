@@ -1,3 +1,5 @@
+![image](https://github.com/kkmcgg/motu/assets/36888812/d8dea74b-edfb-47b2-86e8-9fb7dfcae55c)
+
 motu is a simple idea. We master the universe like we master albums. Its a web map interface with a bunch of slider and knobs below it.
 
 https://kkmcgg.github.io/motu/
