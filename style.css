@@ -1,7 +1,23 @@
-.slider-container {
-    display: flex;
-    align-items: center;
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevents scrollbars */
 }
+
+.map {
+    height: 80vh; /* 80% of the viewport height */
+    width: 100%;
+}
+
+.slider-container {
+    height: 20vh; /* Remaining 20% of the viewport height */
+    width: 100%;
+    display: flex;
+    justify-content: left; /* Center the slider horizontally */
+    align-items: bottom; /* Center the slider vertically */
+}
+
 
 #layer-opacity {
     writing-mode: bt-lr; /* IE */
