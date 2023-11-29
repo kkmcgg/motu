@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MOTU Prototype</title>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v8.2.0/ol.css">
+    <style>
+        .map {
+            height: 400px;
+            width: 100%;
+        }
+        .slider-container {
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map" class="map"></div>
+<div class="slider-container">
+    <input type="range" id="layer-opacity" min="0" max="1" step="0.01" value="1" orient="vertical">
+    <button id="plus-button">+</button>
+</div>
+   <script src="https://cdn.jsdelivr.net/npm/ol@v8.2.0/dist/ol.js"></script>
+    <script src="your_script.js"></script>
+</body>
+</html>
