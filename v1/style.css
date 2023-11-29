@@ -1,0 +1,17 @@
+.slider-container {
+    display: flex;
+    align-items: center;
+}
+
+#layer-opacity {
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    width: 8px;
+    height: 200px;
+    padding: 0 5px;
+}
+
+#plus-button {
+    margin-left: 10px;
+    cursor: pointer;
+}
