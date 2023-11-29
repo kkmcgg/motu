@@ -64,3 +64,12 @@ html, body {
 }
 
 /* Additional styles for form elements */
+
+.vertical-slider {
+    /* this is a direct copy of  '#layer-opacity' for now, used for js generated sliders*/
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    width: 8px;
+    height: 200px;
+    padding: 0 5px;
+}
