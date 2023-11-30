@@ -24,4 +24,9 @@ yeah well... heres an ai generated image...
 
 ![image](https://github.com/kkmcgg/motu/assets/36888812/d8dea74b-edfb-47b2-86e8-9fb7dfcae55c)
 
+this pretty well sums it up...
+
+![motu](https://github.com/kkmcgg/motu/assets/36888812/2b9a2fa9-9e60-40d3-a3e6-b2e0cdfc88f8)
+
+
 </details>
