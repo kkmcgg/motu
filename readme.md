@@ -17,5 +17,9 @@ more info https://mrdata.usgs.gov/wms/namag-1.3.0.xml
 https://mrdata.usgs.gov/wms.html
 
 <details>
+
+<summary>Design Doc</summary>
+  
 ![image](https://github.com/kkmcgg/motu/assets/36888812/d8dea74b-edfb-47b2-86e8-9fb7dfcae55c)
+
 </details>
