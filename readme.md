@@ -14,7 +14,8 @@ http://www.sciencebase.gov/arcgis/services/mrt/NAmag_webmerc/MapServer/WmsServer
 more info https://mrdata.usgs.gov/wms/namag-1.3.0.xml
 
 ## more wms
-https://mrdata.usgs.gov/wms.html
+- https://mrdata.usgs.gov/wms.html
+- http://www.cec.org/files/atlas
 
 <details>
 
